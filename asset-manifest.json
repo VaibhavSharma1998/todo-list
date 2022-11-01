@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VaibhavSharma1998/todo-list.git/static/css/main.4db2c625.css",
+    "main.js": "/VaibhavSharma1998/todo-list.git/static/js/main.61fbdf2a.js",
+    "static/js/787.a5cad257.chunk.js": "/VaibhavSharma1998/todo-list.git/static/js/787.a5cad257.chunk.js",
+    "static/media/Logo.png": "/VaibhavSharma1998/todo-list.git/static/media/Logo.3bee1e3a6c4ebdf1f139.png",
+    "index.html": "/VaibhavSharma1998/todo-list.git/index.html",
+    "main.4db2c625.css.map": "/VaibhavSharma1998/todo-list.git/static/css/main.4db2c625.css.map",
+    "main.61fbdf2a.js.map": "/VaibhavSharma1998/todo-list.git/static/js/main.61fbdf2a.js.map",
+    "787.a5cad257.chunk.js.map": "/VaibhavSharma1998/todo-list.git/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db2c625.css",
+    "static/js/main.61fbdf2a.js"
+  ]
+}
