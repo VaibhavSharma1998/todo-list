@@ -16,7 +16,7 @@ html {
   background: #060822;
   display: flex;
   justify-content: center;
-  /* align-items: center; */
+ 
 }
 
 .child-div {
@@ -38,7 +38,7 @@ html {
 
 
 input {
-  /* display: block; */
+ 
   width: 30rem;
   height: 3.4rem;
   padding: 2rem 1.2rem;
@@ -74,8 +74,6 @@ input:focus {
   box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.2);
 }
 
-/*  Please Subscribe to ThapaTechnical Youtube Channel
-/* Click Here: https://www.youtube.com/thapatechnical  */
 
 .addItems{
   min-width:20rem;
@@ -139,7 +137,7 @@ input:focus {
 
 .fa-trash-alt,
 .fa-edit {
-  /* margin-left: -2.5rem; */
+  
   cursor: pointer;
   pointer-events: auto;
   z-index: 10;
@@ -157,8 +155,7 @@ input:focus {
   margin-left: -3.5rem;
 }
 
-/*  Please Subscribe to ThapaTechnical Youtube Channel
-/* Click Here: https://www.youtube.com/thapatechnical  */
+
 
 .eachItem:hover .fa-trash-alt {
   color: rgb(214, 47, 61);

@@ -14,8 +14,6 @@ const getData = () =>{
   }
 }
 
-
-
  const Todo=() =>{
     const[inputData,setInputData] = useState('')
     const[items,setItems] = useState(getData())
@@ -23,6 +21,7 @@ const getData = () =>{
     const[isEditItem,setIsEditItem] = useState(null)
 
     // Adding data to localStorage
+    
     useEffect(()=>{
         localStorage.setItem('Data',JSON.stringify(items))
     },[items])
@@ -49,8 +48,7 @@ const getData = () =>{
             setItems([...items,allInputData])
         setInputData('')
         }
-        // (!inputData)?' ':   setItems([...items,inputData])
-        // setInputData('')
+        
     }
 
     const deleteItem =(index)=>{
